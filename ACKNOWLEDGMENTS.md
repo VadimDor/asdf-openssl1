@@ -1,5 +1,12 @@
 <h1 align="center">asdf OPENSSL plugin</h1>
+<div align="center">
+    <a href="https://github.com/VadimDor/asdf-openssl">
+        <img width="200" src="./assets/logo.png">
+    </a>
+</div>
+<p align="center">asdf OPENSSL plugin</p>
 
+<h2 align="center">Acknowledgments</h2>
 
 ![build](https://github.com/VadimDor/asdf-openssl/workflows/build/badge.svg) ![lint](https://github.com/VadimDor/asdf-openssl/workflows/lint/badge.svg) [![Join the chat at https://gitter.im/asdf-openssl/community](https://badges.gitter.im/asdf-openssl/community.svg)](https://gitter.im/asdf-openssl/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ## TODO: review and adopt acknowledges 
@@ -63,7 +70,12 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  Use this format (replace 'name' and 'username'): * [name](your URL choice) - [PRs](https://github.com/VadimDor/asdf-openssl/pulls?q=is%3Apr+author%3Ausername)
 
 <h2 align="center">Author</h2>
- <div align="center">   <a href="https://github.com/VadimDor">VAdim Do </a> </div>
+<div align="center">
+    <a href="https://github.com/VadimDor">
+        <img width="200" height="200" src="./assets/profile.jpg"></img>
+    </a>
+</div>
+<h4 align="center">VadimDor</h4>
 
 
 [index]: https://github.com/VadimDor/asdf-openssl/blob/main/ACKNOWLEDGMENTS.md#acknowledgment-index
