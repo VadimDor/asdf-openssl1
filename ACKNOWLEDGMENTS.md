@@ -77,9 +77,9 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 </div>
 <h4 align="center">VAdim Dor</h4>
 
-[index]: <TOOL REPO>/blob/master/ACKNOWLEDGMENTS.md#acknowledgment-index
-[lightdm-hook]: <TOOL REPO>/blob/master/ACKNOWLEDGMENTS.md#lightdm-
-[web-greeter-hook]: <TOOL REPO>/blob/master/ACKNOWLEDGMENTS.md#web-greeter-
+[index]: https://github.com/VadimDor/asdf-openssl/blob/master/ACKNOWLEDGMENTS.md#acknowledgment-index
+[lightdm-hook]: https://github.com/VadimDor/asdf-openssl/blob/master/ACKNOWLEDGMENTS.md#lightdm-
+[web-greeter-hook]: https://github.com/VadimDor/asdf-openssl/blob/master/ACKNOWLEDGMENTS.md#web-greeter-
 
 [lightdm]: https://github.com/canonical/lightdm
 [web-greeter]: https://github.com/JezerM/web-greeter
