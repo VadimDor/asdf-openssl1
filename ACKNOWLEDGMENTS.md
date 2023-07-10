@@ -68,7 +68,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 
 ## Pull Request submitters
-[//]: # "Use this format (replace 'name' and 'username'): * [name](your URL choice) - [PRs](https://github.com/rhashimoto/wa-sqlite/pulls?q=is%3Apr+author%3Ausername)"
+# "Use this format (replace 'name' and 'username'): * [name](your URL choice) - [PRs](https://github.com/rhashimoto/wa-sqlite/pulls?q=is%3Apr+author%3Ausername)"
 
 <h2 align="center">Author</h2>
 <div align="center">
