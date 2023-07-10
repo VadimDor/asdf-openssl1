@@ -1,13 +1,15 @@
-<h1 align="center">asdf YOUR TOOL UC plugin</h1>
+<h1 align="center">asdf OPENSSL plugin</h1>
 <div align="center">
-    <a href="TOOL REPO">
-[![Join the chat at https://gitter.im/asdf-<YOUR TOOL LC>/community](https://badges.gitter.im/asdf-<YOUR TOOL LC>/community.svg)](https://gitter.im/asdf-<YOUR TOOL LC>/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+    <a href="https://github.com/VadimDor/asdf-openssl">
+# asdf-openssl [![Build](https://github.com/VadimDor/asdf-openssl/actions/workflows/build.yml/badge.svg)](https://github.com/VAdimDor/asdf-openssl/actions/workflows/build.yml) [![Lint](https://github.com/VadimDor/asdf-openssl/actions/workflows/lint.yml/badge.svg)](https://github.com/VadimDor/asdf-openssl/actions/workflows/lint.yml)
     </a>
 </div>
 
+<p align="center">asdf OPENSSL plugin</p>
+
+
 ## TODO: review and adopt acknowledges 
 
-<p align="center">asdf YOUR TOOL UC plugin</p>
 
 "asdf <OUR TOOL UC plugin" may use third-party libraries or other resources that may be distributed under licenses different from "asdf YOUR TOOL UC plugin"  itself. This project may use small parts of code from other projects, or may be inspired and influenced by them.
 
@@ -29,7 +31,8 @@ The attached notices are provided for information only.
 - [Dependencies](#lightdm-hook)
 - [Install](#web-greeter-hook)
 
-
+## LightDM ([↑][index])
+## LightDM [[↑](index)]
 ## LightDM [[↑][index]]
 
 **asdf YOUR TOOL UC plugin** is based on skeleton, layout and  underlying code of for **[LightDM][lightdm]** so we give our acknowledgments.
