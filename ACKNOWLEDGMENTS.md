@@ -73,7 +73,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 <h2 align="center">Author</h2>
 <div align="center">
     <a href="https://github.com/VadimDor">
-# asdf-openssl [![Build](https://github.com/VadimDor/asdf-openssl/actions/workflows/build.yml/badge.svg)](https://github.com/VAdimDor/asdf-openssl/actions/workflows/build.yml) [![Lint](https://github.com/VadimDor/asdf-openssl/actions/workflows/lint.yml/badge.svg)](https://github.com/VadimDor/asdf-openssl/actions/workflows/lint.yml)
+[![Join the chat at https://gitter.im/asdf-openssl/community](https://badges.gitter.im/asdf-openssl/community.svg)](https://gitter.im/asdf-openssl/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
     </a>
 </div>
 <h4 align="center">VAdim Dor</h4>
