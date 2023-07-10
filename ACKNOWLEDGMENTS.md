@@ -1,7 +1,7 @@
 <h1 align="center">asdf OPENSSL plugin</h1>
 <div align="center">
     <a href="https://github.com/VadimDor/asdf-openssl">
-        <img width="200" src="./assets/logo.png">
+        <img width="200" height="200" src="./assets/logo.png">
     </a>
 </div>
 <p align="center">asdf OPENSSL plugin</p>
@@ -72,7 +72,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 <h2 align="center">Author</h2>
 <div align="center">
  <a href="https://github.com/VadimDor">
-     <img width="200" height="200" src="./assets/profile.png"></img>
+     <img width="200" height="200" border-radius="50%" src="./assets/profile.png"></img>
  </a>
 </div>
 <h4 align="center">VadimDor</h4>
