@@ -1,8 +1,8 @@
 <h1 align="center">asdf OPENSSL plugin</h1>
 <div align="center">
-    <a href="https://github.com/VadimDor/asdf-openssl">
+
 # asdf-openssl [![Build](https://github.com/VadimDor/asdf-openssl/actions/workflows/build.yml/badge.svg)](https://github.com/VAdimDor/asdf-openssl/actions/workflows/build.yml) [![Lint](https://github.com/VadimDor/asdf-openssl/actions/workflows/lint.yml/badge.svg)](https://github.com/VadimDor/asdf-openssl/actions/workflows/lint.yml)
-    </a>
+
 </div>
 
 <p align="center">asdf OPENSSL plugin</p>
@@ -11,7 +11,7 @@
 ## TODO: review and adopt acknowledges 
 
 
-"asdf <OUR TOOL UC plugin" may use third-party libraries or other resources that may be distributed under licenses different from "asdf YOUR TOOL UC plugin"  itself. This project may use small parts of code from other projects, or may be inspired and influenced by them.
+"asdf OUR TOOL UC plugin" may use third-party libraries or other resources that may be distributed under licenses different from "asdf YOUR TOOL UC plugin"  itself. This project may use small parts of code from other projects, or may be inspired and influenced by them.
 
 In the event that we accidentally failed to list a required notice, please bring it to our attention by opening an issue or pull request.
 
