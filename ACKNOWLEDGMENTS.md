@@ -72,7 +72,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <h2 align="center">Author</h2>
     <a href="https://github.com/VadimDor">
-  [![Join the chat at https://gitter.im/asdf-openssl/community](https://badges.gitter.im/asdf-openssl/community.svg)](https://gitter.im/asdf-openssl/community?utm_source=badge)
+      <h4 align="center">VAdim Dor</h4>
+
     </a>
 <div align="center">
   [![Join the chat at https://gitter.im/asdf-openssl/community](https://badges.gitter.im/asdf-openssl/community.svg)](https://gitter.im/asdf-openssl/community?utm_source=badge)
