@@ -70,11 +70,11 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  Use this format (replace 'name' and 'username'): * [name](your URL choice) - [PRs](https://github.com/VadimDor/asdf-openssl/pulls?q=is%3Apr+author%3Ausername)
 
 <h2 align="center">Author</h2>
-<div align="center">
+<!--div align="center"-->
  <!--a href="https://github.com/VadimDor"-->
      <a href="url"><img src="./assets/profile.png" height="auto"  width="200" style="border-radius:50%"></img></a>
  <!--/a-->
-</div>
+<!--/div-->
 <h4 align="center">VadimDor</h4>
 
 
