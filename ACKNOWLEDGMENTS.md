@@ -71,13 +71,9 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  Use this format (replace 'name' and 'username'): * [name](your URL choice) - [PRs](https://github.com/VadimDor/asdf-openssl/pulls?q=is%3Apr+author%3Ausername)
 
 <h2 align="center">Author</h2>
-    <a href="https://github.com/VadimDor">
-      <h4 align="center">VAdim Dor</h4>
-
-    </a>
+    <a href="https://github.com/VadimDor">VAdim Do </a>
 <div align="center">
   [![Join the chat at https://gitter.im/asdf-openssl/community](https://badges.gitter.im/asdf-openssl/community.svg)](https://gitter.im/asdf-openssl/community?utm_source=badge)
-
 </div>
 <h4 align="center">VAdim Dor</h4>
 
