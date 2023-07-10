@@ -72,7 +72,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 <h2 align="center">Author</h2>
 <div align="center">
  <a href="https://github.com/VadimDor">
-     <img width="200" height="200" border-radius="50%" src="./assets/profile.png"></img>
+     <img width="200" height="200" style="border-radius:50%" src="./assets/profile.png"></img>
  </a>
 </div>
 <h4 align="center">VadimDor</h4>
