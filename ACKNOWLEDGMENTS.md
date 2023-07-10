@@ -6,10 +6,12 @@
 # asdf-openssl [![Build](https://github.com/VadimDor/asdf-openssl/actions/workflows/build.yml/badge.svg)](https://github.com/VAdimDor/asdf-openssl/actions/workflows/build.yml) [![Lint](https://github.com/VadimDor/asdf-openssl/actions/workflows/lint.yml/badge.svg)](https://github.com/VadimDor/asdf-openssl/actions/workflows/lint.yml)
 
 </div>
+![build](https://github.com/VadimDor/asdf-openssl/workflows/build/badge.svg) ![lint](https://github.com/VadimDor/asdf-openssl/workflows/lint/badge.svg) [![Join the chat at https://gitter.im/asdf-openssl/community](https://badges.gitter.im/asdf-openssl/community.svg)](https://gitter.im/asdf-openssl/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+<p align="center">asdf OPENSSL plugin
+![build](https://github.com/VadimDor/asdf-openssl/workflows/build/badge.svg) ![lint](https://github.com/VadimDor/asdf-openssl/workflows/lint/badge.svg) [![Join the chat at https://gitter.im/asdf-openssl/community](https://badges.gitter.im/asdf-openssl/community.svg)](https://gitter.im/asdf-openssl/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+</p>
 
-<p align="center">asdf OPENSSL plugin</p>
-
-
+![build](https://github.com/VadimDor/asdf-openssl/workflows/build/badge.svg) ![lint](https://github.com/VadimDor/asdf-openssl/workflows/lint/badge.svg) [![Join the chat at https://gitter.im/asdf-openssl/community](https://badges.gitter.im/asdf-openssl/community.svg)](https://gitter.im/asdf-openssl/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ## TODO: review and adopt acknowledges 
 
 
