@@ -72,10 +72,10 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <h2 align="center">Author</h2>
     <a href="https://github.com/VadimDor">
-https://badges.gitter.im/asdf-openssl/community.svg
+<img src="https://badges.gitter.im/asdf-openssl/community.svg"></img>
     </a>
 <div align="center">
-  [![Join the chat at https://gitter.im/asdf-openssl/community](https://badges.gitter.im/asdf-openssl/community.svg)](https://gitter.im/asdf-openssl/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+  [![Join the chat at https://gitter.im/asdf-openssl/community](https://badges.gitter.im/asdf-openssl/community.svg)](https://gitter.im/asdf-openssl/community?utm_source=badge)
 
 </div>
 <h4 align="center">VAdim Dor</h4>
