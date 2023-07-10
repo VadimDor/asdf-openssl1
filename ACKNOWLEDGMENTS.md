@@ -64,10 +64,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <h2 align="center">Author</h2>
  <div align="center">   <a href="https://github.com/VadimDor">VAdim Do </a> </div>
-<a href="https://github.com/VadimDor">
-  [![Join the chat at https://gitter.im/asdf-openssl/community](https://badges.gitter.im/asdf-openssl/community.svg)](https://gitter.im/asdf-openssl/community?utm_source=badge)
-</a>
-<h4 align="center">VAdim Dor</h4>
+
 
 [index]: https://github.com/VadimDor/asdf-openssl/blob/main/ACKNOWLEDGMENTS.md#acknowledgment-index
 [lightdm-hook]: https://github.com/VadimDor/asdf-openssl/blob/main/ACKNOWLEDGMENTS.md#lightdm-
