@@ -14,8 +14,8 @@
 
 "asdf OUR TOOL UC plugin" may use third-party libraries or other resources that may be distributed under licenses different from "asdf YOUR TOOL UC plugin"  itself. This project may use small parts of code from other projects, or may be inspired and influenced by them.
 All members, contributors, and maintainers of 
-"<PROJECT NAME>" are referenced together here as **project's community"**
-or **community** .
+"<PROJECT NAME>" are referenced together here as ***"project's community"***
+or **"community"** .
 
 
 In the event that we accidentally failed to list a required notice, please bring it to our attention by opening an issue or pull request.
