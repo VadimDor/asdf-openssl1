@@ -9,7 +9,7 @@
 <h2 align="center">Acknowledgments</h2>
 
 ![build](https://github.com/VadimDor/asdf-openssl/workflows/build/badge.svg) ![lint](https://github.com/VadimDor/asdf-openssl/workflows/lint/badge.svg) [![Join the chat at https://gitter.im/asdf-openssl/community](https://badges.gitter.im/asdf-openssl/community.svg)](https://gitter.im/asdf-openssl/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-###  TODO: review and adopt acknowledges 
+<!--  TODO: review and adopt acknowledges -->
 
 
 "asdf OUR TOOL UC plugin" may use third-party libraries or other resources that may be distributed under licenses different from "asdf YOUR TOOL UC plugin"  itself. This project may use small parts of code from other projects, or may be inspired and influenced by them.
